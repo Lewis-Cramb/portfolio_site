@@ -6,4 +6,6 @@ I will be using HTML, CSS and JS in order to create a portfolio website for all 
 
 # commit history
 
-[commit num] - First commit, setting up folders and readme, adding in index.html, style.css and script.js.
+6097558 - First commit, setting up folders and readme, adding in index.html, style.css and script.js.
+
+[commit num] - Second commit, added in the wireframes for the site. I tried using a new vscode extention for editing and drawing on the wireframes for index.png but I didn't like the feel of it so I went back to paint for the rest, hence why it looks different.
