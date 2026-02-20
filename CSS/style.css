@@ -1,0 +1,22 @@
+/* This file is for all the pages, keeps certain elements the same */
+
+body{
+    background-color:rgb(244, 244, 188);
+}
+
+
+.topOfPage{
+    display:inline-flex ;
+}
+
+.underlined{ /* this just makes sure everything is underlined if that is the only rule */
+    text-decoration:underline ;
+}
+
+#nav-bttn{
+    display:inline ;
+}
+
+#nav-bar{
+    display:none ;
+}

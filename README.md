@@ -13,7 +13,9 @@ I will be using HTML, CSS and JS in order to create a portfolio website for all 
 
 b311dfc - Third commit, this truthfully probably won't have any features that see the light of day however I have been practicing with JS and it feels very similar to Java hence how I managed to quickly create navbar(). I want to try to use document.getElementById() to try to create a generic baseplate for all of my pages?
 
-[commit num] - Fourth commit, made the html for the index page (not finalised, won't ever be) and condesed the Javascript to just be functions and not learning parts.
+5c3355f - Fourth commit, made the html for the index page (not finalised, won't ever be) and condesed the Javascript to just be functions and not learning parts.
+
+[commit num] - Fifth commit, I edited the wireframe slightly to fit the page better and added some more html. Mainly though this commit was spent styling the website using the style.css and index.css file, split such that style.css is for repeated elements.
 
 # Links
 

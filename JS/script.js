@@ -5,3 +5,7 @@ function navbar(){ //this function switched the nav-bar from being hidden to bei
         document.getElementById("nav-bar").style.display = 'inline' ;
     }
 }
+
+function showNav(){
+    document.
+}
