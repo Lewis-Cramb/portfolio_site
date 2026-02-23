@@ -2,8 +2,9 @@
 I will be using HTML, CSS and JS in order to create a portfolio website for all of my projects, education and experience
 
 # notes
-- I am not sure how to actually host this site, will figure it out (preferrbly not paying but will see prices)
+- I am not sure how to actually host this site, will figure it out (preferrbly not paying but will see prices) - (Between commit 5 and 6) Just done CO2026 from GUTS, try using github to host the site 
 - I also have never touched javascript besides onMouseClick() so I will need to learn JS as I go along with this project.
+
 
 # commit history
 
@@ -15,8 +16,11 @@ b311dfc - Third commit, this truthfully probably won't have any features that se
 
 5c3355f - Fourth commit, made the html for the index page (not finalised, won't ever be) and condesed the Javascript to just be functions and not learning parts.
 
-[commit num] - Fifth commit, I edited the wireframe slightly to fit the page better and added some more html. Mainly though this commit was spent styling the website using the style.css and index.css file, split such that style.css is for repeated elements.
+e33ed36 - Fifth commit, I edited the wireframe slightly to fit the page better and added some more html. Mainly though this commit was spent styling the website using the style.css and index.css file, split such that style.css is for repeated elements.
+
+[commit num] - Sixth commit, added the css and html such that when the nav button is pressed the screen dimmed and reset when clicked off of the nav bar. I also learned about and used GitHub Pages to run my website.
 
 # Links
 
 Javascript - https://www.w3schools.com/js/
+GitHub site hosting - https://www.geeksforgeeks.org/git/how-to-host-a-website-on-github-for-free/

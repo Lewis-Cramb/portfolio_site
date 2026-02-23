@@ -1,7 +1,7 @@
 /* This file is for all the pages, keeps certain elements the same */
 
 body{
-    background-color:rgb(244, 244, 188);
+    background-color:rgb(251, 142, 64);
 }
 
 
@@ -19,4 +19,15 @@ body{
 
 #nav-bar{
     display:none ;
+    margin-left:45% ;
+    margin-top:300px ;
+    position:absolute ;
+    z-index:1000 ;
 }
+
+/* dimming overlay sits underneath the menu so clicks reach the bar first */
+#nav-clear {
+    position: relative;
+    z-index: 500;
+}
+

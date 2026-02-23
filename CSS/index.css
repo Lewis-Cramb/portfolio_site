@@ -4,7 +4,9 @@ h1{
     display:inline ;
 }
 
-
+#nav-bar a:hover {
+    background-color:rgba(89, 155, 242, 0.711) ;
+}
 
 .lst{ /* this is for all lists, hence class */
     display:inline-grid ;
