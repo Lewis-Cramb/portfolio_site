@@ -6,15 +6,31 @@
         <link rel="stylesheet" href="../CSS/index.css">
     </head>
     <body>
-        <nav>
-        <button id="nav-bttn" onclick="navbar()">NavBar</button>
-            <div id="nav-bar">
-                <a href="index.html">Home</a> <br /> <br />
+        <nav onclick="toggleNav(event)">
+        <button id="nav-bttn" onclick="navbar(event)">NavBar</button>
+            <div id="nav-bar"> 
+                <a href="../index.html">Home</a> <br /> <br />
                 <a href="projects.html">Projects</a> <br /> <br />
                 <a href="education.html">Education</a> <br /> <br />
                 <a href="experience.html">Experience</a>
             </div>
         </nav>
+
+        <main>
+            <div id="nav-clear" onclick="navClear()">
+                <div class="topOfPage">
+                    <h1 class="underlined">Lewis Cramb's Projects</h1>
+                </div>
+                <div id="proj-box">
+                    <div id="proj-title">
+                        <h2 id="proj-name">Title</h2>
+                        <a id="proj-url" target="_blank">GitHub</a>
+                    </div>
+                    <img id="proj-img" src="placehold.png" />
+                    <p>Placeholder text</p>
+                </div>
+            </div>
+        </main>
 
         <script src="../JS/script.js"></script>
     </body>

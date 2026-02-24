@@ -18,7 +18,9 @@ b311dfc - Third commit, this truthfully probably won't have any features that se
 
 e33ed36 - Fifth commit, I edited the wireframe slightly to fit the page better and added some more html. Mainly though this commit was spent styling the website using the style.css and index.css file, split such that style.css is for repeated elements.
 
-[commit num] - Sixth commit, added the css and html such that when the nav button is pressed the screen dimmed and reset when clicked off of the nav bar. I also learned about and used GitHub Pages to run my website.
+7d3db63 - Sixth commit, added the css and html such that when the nav button is pressed the screen dimmed and reset when clicked off of the nav bar. I also learned about and used GitHub Pages to run my website.
+
+[commit num] - Seventh commit (Technically nineth), messed around with Github Pages so commit history is slightly messy (this is the defitintive history). Fixed nav bar issues, moved index.html to fit with gh pages better, moved all css back to style.css and implemented the projects.html page.
 
 # Links
 

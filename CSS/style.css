@@ -1,17 +1,15 @@
-/* This file is for all the pages, keeps certain elements the same */
+/* tags */
 
 body{
     background-color:rgb(251, 142, 64);
 }
 
-
-.topOfPage{
-    display:inline-flex ;
+h1{
+    float:left ;
+    display:inline ;
 }
 
-.underlined{ /* this just makes sure everything is underlined if that is the only rule */
-    text-decoration:underline ;
-}
+/* ids (#) */
 
 #nav-bttn{
     display:inline ;
@@ -25,9 +23,42 @@ body{
     z-index:1000 ;
 }
 
-/* dimming overlay sits underneath the menu so clicks reach the bar first */
 #nav-clear {
     position: relative;
     z-index: 500;
 }
+#nav-bar a:hover {
+    background-color:rgba(89, 155, 242, 0.711) ;
+}
+
+#bulletLists{ /* This is just for the div for positioning of all lists at once */
+    margin-top:50px;
+    display:inline-block ;
+}
+
+#selfImg{
+    position:fixed ;
+    height:100px ;
+    width:100px ;
+    float:right ;
+    right:100px ;
+}
+
+
+/* classes (.) */
+
+.topOfPage{
+    display:inline-flex ;
+}
+
+.underlined{ /* this just makes sure everything is underlined if that is the only rule */
+    text-decoration:underline ;
+}
+
+.lst{ /* this is for all lists, hence class */
+    display:inline-grid ;
+    margin-right:310px ;
+    margin-top:100px ;
+}
+
 
