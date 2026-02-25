@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="../CSS/style.css">
         <link rel="stylesheet" href="../CSS/index.css">
     </head>
-    <body>
+    <body onload="rewriteProjBox()">
         <nav onclick="toggleNav(event)">
         <button id="nav-bttn" onclick="navbar(event)">NavBar</button>
             <div id="nav-bar"> 
@@ -21,13 +21,21 @@
                 <div class="topOfPage">
                     <h1 class="underlined">Lewis Cramb's Projects</h1>
                 </div>
-                <div id="proj-box">
-                    <div id="proj-title">
-                        <h2 id="proj-name">Title</h2>
-                        <a id="proj-url" target="_blank">GitHub</a>
+                <div id="boxes">
+                    <div id="left-box"></div>
+                    <div id="proj-box">
+                        <div id="proj-title">
+                            <h2 id="proj-name">Title</h2>
+                            <a id="proj-url" target="_blank">GitHub</a>
+                        </div>
+                        <img id="proj-img" src="placehold.png" />
+                        <p id="proj-text">Placeholder text</p>
                     </div>
-                    <img id="proj-img" src="placehold.png" />
-                    <p>Placeholder text</p>
+                    <div id="right-box"></div>
+                </div>
+                <div id="proj-bttns">
+                    <button id="proj-bttn-l" onclick="moveProjectLeft()"></button>
+                    <button id="proj-bttn-r" onclick="moveProjectRight()"></button>
                 </div>
             </div>
         </main>
