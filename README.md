@@ -23,7 +23,9 @@ e33ed36 - Fifth commit, I edited the wireframe slightly to fit the page better a
 
 7de245a - Seventh commit (Technically nineth), messed around with Github Pages so commit history is slightly messy (this is the defitintive history). Fixed nav bar issues, moved index.html to fit with gh pages better, moved all css back to style.css and implemented the projects.html page.
 
-[commit num] - Eighth commit, added the js function for the projects page so that the details of a project can switch on a button click. Added the css for the page too so that it is styled the same as the wireframe and the rest of the site.
+fa67f96 - Eighth commit, added the js function for the projects page so that the details of a project can switch on a button click. Added the css for the page too so that it is styled the same as the wireframe and the rest of the site. Might add animations later too, once rest of site is complete.
+
+[commit num] - Nineth commit, created the html for the education page. The grad-cap was edited on word, tilted and background removed as the png with transparent background just wasn't working. I had to lock in for uni hence the break timely commits.
 
 # Links
 
