@@ -6,6 +6,8 @@ I will be using HTML, CSS and JS in order to create a portfolio website for all 
 - I also have never touched javascript besides onMouseClick() so I will need to learn JS as I go along with this project.
 - Between commit 7 and 8, I want to try and update the total css of the page somehow to feel better than a simple N5 website, not sure how I will do that but I think something like bootstrap may be what I am after.
 
+- This is between commit 9 and commit 10. I have taken a break from this portfolio due to my exams, now that they are over I have a chance to come back. I think I will refactor the CSS right now for the 10th commit, it's messy and unorganised - why did I put it all in style.css??? - okay its refactored but i may need to do so again if hosting on like django or smth
+
 
 # commit history
 
@@ -25,7 +27,9 @@ e33ed36 - Fifth commit, I edited the wireframe slightly to fit the page better a
 
 fa67f96 - Eighth commit, added the js function for the projects page so that the details of a project can switch on a button click. Added the css for the page too so that it is styled the same as the wireframe and the rest of the site. Might add animations later too, once rest of site is complete.
 
-[commit num] - Nineth commit, created the html for the education page. The grad-cap was edited on word, tilted and background removed as the png with transparent background just wasn't working. I had to lock in for uni hence the break timely commits.
+2e746f8 - Nineth commit, created the html for the education page. The grad-cap was edited on word, tilted and background removed as the png with transparent background just wasn't working. I had to lock in for uni hence the break timely commits.
+
+[commit num] - Tenth commit, I refactored the css and js in the website so that everything sat within its own category [see notes]
 
 # Links
 
