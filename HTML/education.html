@@ -3,7 +3,7 @@
     <head>
         <title>LC - Education</title>
         <link rel="stylesheet" href="../CSS/style.css">
-        <link rel="stylesheet" href="../CSS/index.css">
+        <link rel="stylesheet" href="../CSS/education.css">
     </head>
     <body>
         <nav onclick="toggleNav(event)">
@@ -18,23 +18,30 @@
 
         <main>
             <div id="nav-clear" onclick="navClear()">
-                <div id="uni-box">
+                <div id="pong-div">
+                    <p id="pong-words" class="pong-text">Press space for a surprise!</p>
+                    <p id="pong-score" class="pong-text">0-0</p>
+                </div>
+                <div id="uni-box" class="edu-box">
                     <img id="grad-cap" src="../Images/grad-cap.png" />
                     <h3>Bsci. Software Engineering</h3>
                     <h4>University of Glasgow</h4>
                     <h4>2024-Current</h4>
-                    <p> Y1 = 2*A, 4*B </p>
+                    <p> Y1: AA, BBBB </p>
+                    <p> Y2: AAAA, B, CCC, D</p>
                 </div>
-                <div id="hs-box">
+                <div id="hs-box" class="edu-box">
                     <h3>Bearsden Academy</h3>
                     <h4>2018-2024</h4>
-                    <p>Advanced Highers = 1*A, 1*B</p>
-                    <p>Highers = 5*A, 2*B</p>
-                    <p>National 5s = 8*A</p>
+                    <p>Advanced Highers: A, B</p>
+                    <p>Highers: AAAAA, BB</p>
+                    <p>National 5s: AAAAAAAA</p>
                 </div>
+                <div id="pong-ball"></div>
             </div>
         </main>
 
         <script src="../JS/nav.js"></script>
+        <script src="../JS/edu.js"></script>
     </body>
 </html>

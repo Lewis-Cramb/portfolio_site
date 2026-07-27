@@ -2,8 +2,22 @@
 
 /* tags */
 
+* {
+    box-sizing: border-box;
+}
+
 body{
+    margin:0px ;
+    height:100% ;
     background-color:rgb(251, 142, 64);
+    display:flex ;
+    flex-direction:column ;
+    height:100vh ;
+}
+
+nav{
+    height:25px ;
+    background-color:rgba(255,0,0,0.1) ;
 }
 
 h1{
@@ -20,8 +34,10 @@ img{
 h4{
     font-weight: normal;
 }
-/* Descendant Selectors /Multi-tags */
 
+main{
+    flex:1 ;
+}
 
 
 /* ids (#) */
@@ -41,6 +57,7 @@ h4{
 #nav-clear {
     position: relative;
     z-index: 500;
+    height:100% ;
 }
 #nav-bar a:hover {
     background-color:rgba(89, 155, 242, 0.711) ;
@@ -52,7 +69,7 @@ h4{
 }
 
 #selfImg{
-    position:fixed ;
+    position:absolute ;
     height:100px ;
     width:100px ;
     float:right ;
@@ -76,4 +93,10 @@ h4{
     margin-top:100px ;
 }
 
+
+/* Descendant/Multi-selector */
+
+html, main{
+    height:100% ;
+}
 

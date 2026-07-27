@@ -8,6 +8,10 @@ I will be using HTML, CSS and JS in order to create a portfolio website for all 
 
 - This is between commit 9 and commit 10. I have taken a break from this portfolio due to my exams, now that they are over I have a chance to come back. I think I will refactor the CSS right now for the 10th commit, it's messy and unorganised - why did I put it all in style.css??? - okay its refactored but i may need to do so again if hosting on like django or smth
 
+- The date is 21/07/2026, the last commit was 13/05/2026 lol, and i've only got to this now as I was doing stuff with the internship (in site) - this is an ugly website, I'll finish styling the education page then next commit will be for fixing the colours and alignments etc
+
+- I wanted to do something special with the education page and needed to learn more JS so I've decided to make a game of Pong, I am using AI but simply to give me stepping stones - the code will all be mine, Claude is just giving me the steps in english (not psuedocode)
+
 
 # commit history
 
@@ -29,8 +33,12 @@ fa67f96 - Eighth commit, added the js function for the projects page so that the
 
 2e746f8 - Nineth commit, created the html for the education page. The grad-cap was edited on word, tilted and background removed as the png with transparent background just wasn't working. I had to lock in for uni hence the break timely commits.
 
-[commit num] - Tenth commit, I refactored the css and js in the website so that everything sat within its own category [see notes]
+a70f4e4 - Tenth commit, I refactored the css and js in the website so that everything sat within its own category [see notes]
 
+[commit num] - Eleventh commit, back on track now by designing the css for the education page
+
+[commit num] - Twelth commit, styled the education page and also created pong. The game of pong is basic and crude but it works, helped me to learn about things like requestAnimationFrame and more logical side to animations
+ 
 # Links
 
 Javascript - https://www.w3schools.com/js/

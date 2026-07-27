@@ -2,8 +2,70 @@
 
 /* tags */
 
+
 /* IDs(#) */
 
+#grad-cap{
+    width:100px ;
+    height:100px ;
+    display: inline ;
+    float:right ;
+}
+
+#nav-clear{
+    display:relative ;
+    gap:50% ;
+    height:100% ;
+}
+
+#hs-box {
+    right:100px ;
+}
+
+#uni-box {
+    left:100px ;
+}
+
+#pong-ball {
+    width: 10px;
+    height: 10px;
+    border-radius:50px ;
+    background-color:blue ;
+    position:absolute ;
+    left:600px ;
+    top:50px ;
+    visibility:hidden ;
+}
+
+#pong-score{
+    display:none ;
+}
+
+#pong-words {
+    display:inline ;
+}
+
+#pong-div{
+    display:flex ;
+    justify-content:center ;
+    align-items:center ;
+}
+
 /* Classes (.) */
+
+.edu-box{
+    position:absolute ;
+    border-style:solid ;
+    border-color:black ;
+    width:300px ;
+    padding-left:1% ;
+    top:200px ;
+}
+
+.pong-text{
+    text-align:center ;
+    color:blueviolet ;
+    font-size:30px ;
+}
 
 /* Descendant/Multi selectors */
