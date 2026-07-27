@@ -12,6 +12,8 @@ I will be using HTML, CSS and JS in order to create a portfolio website for all 
 
 - I wanted to do something special with the education page and needed to learn more JS so I've decided to make a game of Pong, I am using AI but simply to give me stepping stones - the code will all be mine, Claude is just giving me the steps in english (not psuedocode)
 
+- this is a terrible notes section (see HJ-API for a better readme) but it feels disingenuine to edit it all so I will just use it differently to how I did, notes for my thoughts as opposed to noteworth things
+
 
 # commit history
 
@@ -35,9 +37,11 @@ fa67f96 - Eighth commit, added the js function for the projects page so that the
 
 a70f4e4 - Tenth commit, I refactored the css and js in the website so that everything sat within its own category [see notes]
 
-[commit num] - Eleventh commit, back on track now by designing the css for the education page
+a70f4e4 - Eleventh commit, back on track now by designing the css for the education page
 
-[commit num] - Twelth commit, styled the education page and also created pong. The game of pong is basic and crude but it works, helped me to learn about things like requestAnimationFrame and more logical side to animations
+aa424c5 - Twelth commit, styled the education page and also created pong. The game of pong is basic and crude but it works, helped me to learn about things like requestAnimationFrame and more logical side to animations
+
+[commit num] - Thirtheenth commit, changed the general CSS of the website and added the hamburger to the hamburger menu
  
 # Links
 

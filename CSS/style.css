@@ -9,7 +9,7 @@
 body{
     margin:0px ;
     height:100% ;
-    background-color:rgb(251, 142, 64);
+    background-color:rgb(210, 179, 157);
     display:flex ;
     flex-direction:column ;
     height:100vh ;
@@ -44,6 +44,7 @@ main{
 
 #nav-bttn{
     display:inline ;
+    padding:5px ;
 }
 
 #nav-bar{
@@ -58,7 +59,10 @@ main{
     position: relative;
     z-index: 500;
     height:100% ;
+    padding:10px ;
 }
+
+
 #nav-bar a:hover {
     background-color:rgba(89, 155, 242, 0.711) ;
 }
@@ -75,6 +79,7 @@ main{
     float:right ;
     right:100px ;
 }
+
 
 
 /* classes (.) */
